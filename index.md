@@ -12,6 +12,7 @@ filename: index.md
             <h3 style ="margin:0px; padding:0px;">{{ post.title }}</h3>
             <p style="color:#808080; margin:0px; padding:0px"><time datetime="{{ post.date | date: '%Y-%m-%d %H:%M' }}">{{ post.date | date: "%B %-d, %Y %I:%M %p"}}</time></p>
         </header>
+        <hr>
         <p>{{post.excerpt}}</p>
     {% endfor %}
 </ul>
