@@ -5,7 +5,7 @@ filename: index.md
 
 
 <hr>
-<h1 style="text_size:50px"> Blog Posts </h1>
+<h1 style="font-size:50px"> Blog Posts </h1>
 <ul>
     {% for post in site.posts %}
         <header>
