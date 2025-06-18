@@ -1,7 +1,6 @@
 ---
 layout: page
 filename: index.md
-title: "Home"
 ---
 <ul>
   {% for post in site.posts %}
