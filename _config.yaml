@@ -1,4 +1,6 @@
 theme: minima
+minima:
+  skin: dark
 title: My Portfolio
 author: Tom Jago
 email: tom.jago@hotmail.com
