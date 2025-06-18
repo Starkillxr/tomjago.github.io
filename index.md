@@ -1,7 +1,8 @@
 ---
 layout: page
 filename: index.md
----
+excerpt_seperator: <!-- excerpt-end -->
+--- 
 <ul>
   {% for post in site.posts %}
     <li>
