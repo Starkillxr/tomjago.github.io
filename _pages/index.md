@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 filename: index.md
 published: false
 ---
