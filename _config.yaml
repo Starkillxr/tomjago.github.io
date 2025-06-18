@@ -5,3 +5,5 @@ email: tom.jago@hotmail.com
 description: A portfolio showcasing my work and projects.
 excerpt_separator: <!-- excerpt-end -->
 timezone: Europe/London
+date: "%B %d, %Y"
+time: "%I:%M %p"
