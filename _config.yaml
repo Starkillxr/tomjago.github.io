@@ -5,4 +5,4 @@ email: tom.jago@hotmail.com
 description: A portfolio showcasing my work and projects.
 excerpt_separator: <!-- excerpt-end -->
 date: "%B %d, %Y"
-time: "%I:%M"
+time: "%H:%M:%S"
