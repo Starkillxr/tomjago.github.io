@@ -6,7 +6,7 @@ filename: index.md
 <ul>
     {% for post in site.posts %}
         <!-- <h1><b>{{ post.title }}</b></h1> -->
-        <time datetime="{{ post.date }}">
+        <p><time datetime="{{ post.date }}"></p>
         {{post.excerpt}}
     {% endfor %}
 </ul>
