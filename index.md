@@ -1,8 +1,9 @@
 ---
 layout: page
 filename: index.md
---- 
-
+---
+test 
+---
 <ul>
    {% for post in site.posts %}
        <h1><b>{{ post.title }}</b></h1>
