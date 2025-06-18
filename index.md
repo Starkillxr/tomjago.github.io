@@ -13,5 +13,3 @@ filename: index.md
        <p>{{post.excerpt}}</p>
    {% endfor %}
 </ul>
-
----
