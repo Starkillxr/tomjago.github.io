@@ -54,6 +54,16 @@ Adapted quickly to new environments and technologies, demonstrating resilience i
 #### Analytical Thinking and Attention to Detail
 Employed analytical thinking to analyse complex problems and evaluate potential solutions critically. Paid meticulous attention to detail in tasks such as database design and development, ensuring accuracy and efficiency in data management processes.
 
+## Interests & Achievements
+Competed at county level in archery, honing focus, determination, and resilience, which are essential traits for successful project management and problem-solving in professional settings.
+
+Participated in NASA Space apps events in 2018 and 2020.
+
+
+## Transferable Skills
+Punctual and Resilient
+Clean Driving License
+
 <hr>
 <h1 style="font-size:50px"> Blog Posts </h1>
 <ul>
