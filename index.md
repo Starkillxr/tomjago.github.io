@@ -1,6 +1,7 @@
 ---
 layout: page
 filename: index.md
+title: Home
 ---
 
 # **CV**
@@ -36,7 +37,7 @@ filename: index.md
 - **BTEC Diploma in IT (Distinction, Distinction)**
     - Key Modules Include: Web Development, Project Management & Database Design and Development
 
-### Plymouth Tuition Service (ACE Schools) (2015)
+### **Plymouth Tuition Service (ACE Schools) (2015)**
 - **GCSES**: Four in Mathematics, Double Science and English 
 
 
