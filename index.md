@@ -27,11 +27,13 @@ filename: index.md
 ## University of Plymouth (2022-2023)
 - Master of Artificial Intelligence
     - Key Modules Include: Advanced Intelligent Robotics, Advanced Machine Learning, Artificial Vision and Deep Learning, Big Data, Computational Intelligence, and Improving Interpretability and Explainability of Radiomics Deep Learning Models for Accurate Brain Tumour Assessment
+
 ## City College Plymouth (2016-2021)
 - BSc Applied Computer Science (2:1 Upper Division)
     - Key Modules Include: High Performance Computing, Machine Learning and AI, Project Management & Mobile Application Development, Team Project,
 - BTEC Diploma in IT (Distinction, Distinction)
     - Key Modules Include: Web Development, Project Management & Database Design and Development
+
 ## Plymouth Tuition Service (ACE Schools) (2015)
 - GCSES: Four in Mathematics, Double Science and English 
 
