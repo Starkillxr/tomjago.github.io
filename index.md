@@ -3,24 +3,24 @@ layout: page
 filename: index.md
 ---
 # Technical Skills:
--Agile Methodologies, Risk Assessment:  Project Management
--Android Studio, Java, XHTML : Mobile Application Development
--Digital Twins, AI Application Areas : Applied Artificial Intelligence
--HTML, CSS, JavaScript : Web Development
--LaTeX – Master of Artificial Intelligence
--MATLAB & Robotics Equations : Advanced Intelligence Robotics
--OpenCV : Artificial Vision and Deep Learning
--Optimisation, Metaheuristics, Evolutionary Algorithms : Computational Intelligence
--Pandas : Masters Project, Advanced Machine Learning
--PyRadiomics, SHAP : Improving Interpretability and Explainability of Radiomics Deep Learning Models for Accurate Brain Tumour Assessment
--PyTorch : Machine Learning & AI, Advanced Machine Learning
--Python : Machine Learning & AI, Advanced Machine Learning, Computational Intelligence, Improving Interpretability and Explainability of Radiomics Deep Learning Models for Accurate Brain Tumour Assessment, Artificial Vision, and Deep Learning
--R & R Markdown : Big Data
--Scikit Learn : Advanced Machine Learning
--SQL, PHP, WAMP Server : Database Design and Development
--TensorFlow : Machine Learning & AI
--Ubuntu & Cluster Computing : High-Performance Computing
--XAI : Applied Artificial Intelligence, Masters Project
+- Agile Methodologies, Risk Assessment:  Project Management
+* Android Studio, Java, XHTML : Mobile Application Development
++ Digital Twins, AI Application Areas : Applied Artificial Intelligence
+- HTML, CSS, JavaScript : Web Development
+* LaTeX – Master of Artificial Intelligence
++ MATLAB & Robotics Equations : Advanced Intelligence Robotics
+- OpenCV : Artificial Vision and Deep Learning
+* Optimisation, Metaheuristics, Evolutionary Algorithms : Computational Intelligence
++ Pandas : Masters Project, Advanced Machine Learning
+- PyRadiomics, SHAP : Improving Interpretability and Explainability of Radiomics Deep Learning Models for Accurate Brain Tumour Assessment
++ PyTorch : Machine Learning & AI, Advanced Machine Learning
+* Python : Machine Learning & AI, Advanced Machine Learning, Computational Intelligence, Improving Interpretability and Explainability of Radiomics Deep Learning Models for Accurate Brain Tumour Assessment, Artificial Vision, and Deep Learning
+- R & R Markdown : Big Data
++ Scikit Learn : Advanced Machine Learning
+* SQL, PHP, WAMP Server : Database Design and Development
+- TensorFlow : Machine Learning & AI
++ Ubuntu & Cluster Computing : High-Performance Computing
+* XAI : Applied Artificial Intelligence, Masters Project
 
 # Education
 
